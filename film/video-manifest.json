@@ -1,0 +1,26 @@
+{
+  "title": "Afro Organic House Motifs",
+  "study": "z0601",
+  "bpm": 122,
+  "source_audio": "preview/afro-organic-house-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "a5913d039a86ee474c5a8ef7bfc9a565ae698efeee0f4f3e50a8b286d9fe0bcf",
+  "source_midi": "midi/z0601-afro-organic-house-motifs-opening/z0601-afro-organic-house-motifs-opening-combined.mid",
+  "source_midi_sha256": "9fcc7f64b2628b62db6b214b7e51decb4a3e5fa6a5703edd65fbca6479449eff",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "3dfa4b017660027cea4ef7fc7c8b11897c1e6bd7d2cbcea221f1f090aac51b77",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "0cc0435c57af69a61bb8912ec4486b3b0438bcd2c602ec27d5ce5f4adb8c3175",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "acf2fa2cb661880204fac5c5711b0dee734d74f5dbb153d2405cee23fe917bc4",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

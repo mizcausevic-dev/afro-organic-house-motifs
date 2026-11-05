@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:47.893972+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0601-afro-organic-house-motifs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "d1db5d29f0a2c5dcfefda3404fb6f92f22b27dac98a2968104ce4888f815216c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0601-afro-organic-house-motifs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3d0cd539ed0a2dbfcc45e3bfd2bf14e53fb63ddd87190653c1f3d82fffdd2bbf",
+      "errors": []
+    },
+    {
+      "path": "midi/z0601-afro-organic-house-motifs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0601-afro-organic-house-motifs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "2b73609119235401c224be8eeb8b60fae0afced2d2fc873a7c26b81ffacba3f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z0601-afro-organic-house-motifs-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "ab9a42bcb84b484a444b8756007de613d1736a63883f4455e7a6aa0731f933f3",
+      "errors": []
+    },
+    {
+      "path": "midi/z0601-afro-organic-house-motifs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "caa19da6bc7a84de5581b21dd6b7e79955a6e912256fb23d1b49a889b34a2ab0",
+      "errors": []
+    },
+    {
+      "path": "midi/z0601-afro-organic-house-motifs-opening/z0601-afro-organic-house-motifs-opening-combined.mid",
+      "bytes": 6020,
+      "sha256": "9fcc7f64b2628b62db6b214b7e51decb4a3e5fa6a5703edd65fbca6479449eff",
+      "errors": []
+    },
+    {
+      "path": "midi/z0602-afro-organic-house-motifs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "ee16fec7d019b9291afc90a954de958a42efc258ad578ba2eb4f1d775acf7cd0",
+      "errors": []
+    },
+    {
+      "path": "midi/z0602-afro-organic-house-motifs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fcaafec919f563f6949ffa4c21b7009ab59495182f60c0979cd1e41c4b1a9282",
+      "errors": []
+    },
+    {
+      "path": "midi/z0602-afro-organic-house-motifs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0602-afro-organic-house-motifs-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "c6460a0e2f8123baf43dbecf77ed7891ec9ed27c3fd6ca2665747e1c3da98d1a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0602-afro-organic-house-motifs-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "e908cb03f6572389f0605487f685a1c6c448c30fa31d961ef2ee2a86f0db7c4d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0602-afro-organic-house-motifs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e679f51b8e37c254e4aa12c5bb7aaf096f245cedf2b6d70f654338d38411c37b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0602-afro-organic-house-motifs-variation/z0602-afro-organic-house-motifs-variation-combined.mid",
+      "bytes": 6020,
+      "sha256": "735e889ceb7998481c2146a1adf8a9740857fc12ab2001ac11d7d6f05b02bdc4",
+      "errors": []
+    },
+    {
+      "path": "midi/z0603-afro-organic-house-motifs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "39951f0305b5c79a60a24d3db1210451a2e18e0bb24bfedf5a51b98ad20e328a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0603-afro-organic-house-motifs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b034020f894dc0d4cf755935a4fa2d2e89820b3b6327e72eb2a2e7e0fde52a44",
+      "errors": []
+    },
+    {
+      "path": "midi/z0603-afro-organic-house-motifs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0603-afro-organic-house-motifs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "6fed4965a11ef2d38e64c3985ce39dad3cc63c9eac7b870450bc18d58c033ee3",
+      "errors": []
+    },
+    {
+      "path": "midi/z0603-afro-organic-house-motifs-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "7416824f646bff22c788fc78fc80a323ffd6cc1f0e41b2486ca0541cf186863f",
+      "errors": []
+    },
+    {
+      "path": "midi/z0603-afro-organic-house-motifs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af208f37d4ceba8868552224b4ad0f080adaf5fbcd1d76ee83a3ce7090862cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z0603-afro-organic-house-motifs-contrast/z0603-afro-organic-house-motifs-contrast-combined.mid",
+      "bytes": 5988,
+      "sha256": "74faf332b17b6d8c8fe1cccac28b887a5e3e330863efad656f14dab6ae9798ed",
+      "errors": []
+    },
+    {
+      "path": "midi/z0604-afro-organic-house-motifs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "8cf8b798ca8d62273803eb9d238adad99d939eab262f0cc81e25342a62d8974d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0604-afro-organic-house-motifs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "288f91ab17c7775d67b0d2ecec957bcceec4e3416844c7e3942a8e476a4aa2df",
+      "errors": []
+    },
+    {
+      "path": "midi/z0604-afro-organic-house-motifs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0604-afro-organic-house-motifs-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "6282934a6b9c86f0e421a6fd561e1f6e41ab1cfd2f56d0dcab09c713be6116c9",
+      "errors": []
+    },
+    {
+      "path": "midi/z0604-afro-organic-house-motifs-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "43cd70bc5c675d7c4d56ee635adf3dfe147ca3a813697b35f68c3e63f14305f7",
+      "errors": []
+    },
+    {
+      "path": "midi/z0604-afro-organic-house-motifs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3e0799586c6971edf853c533699c2ade8fa1f116b13513b55cd9b316a424740b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0604-afro-organic-house-motifs-return/z0604-afro-organic-house-motifs-return-combined.mid",
+      "bytes": 5988,
+      "sha256": "470319ea4aa21b28f2c15e5434bba642e5390b0f018a56be934b93a817c49316",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

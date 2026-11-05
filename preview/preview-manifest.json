@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/afro-organic-house-motifs-simple-synth-preview.mp3",
+  "preview_sha256": "a5913d039a86ee474c5a8ef7bfc9a565ae698efeee0f4f3e50a8b286d9fe0bcf",
+  "source_midi_path": "midi/z0601-afro-organic-house-motifs-opening/z0601-afro-organic-house-motifs-opening-combined.mid",
+  "source_midi_sha256": "9fcc7f64b2628b62db6b214b7e51decb4a3e5fa6a5703edd65fbca6479449eff",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z0601",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.118763,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
