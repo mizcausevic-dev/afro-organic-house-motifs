@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/afro-organic-house-motifs-midi.zip",
-      "bytes": 31941,
-      "sha256": "4c7a7f434a03f41d94842e06076901e54b251890ad434a8aaf971ac3b7934660"
+      "bytes": 32928,
+      "sha256": "db48f0f29a56daf50744394151aa0e16a5e9a9358d14056ced103717b0d663c6"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "7edd95b5cc6c5e320cb1c069490ef9efb2ea5e661b986ae9a3de743ea938848f"
+      "bytes": 10234,
+      "sha256": "cfecaa40e73dc4bfcc154e1b5001fd93556c14e4106ed91500cc89884ac260f5"
     },
     {
       "path": "midi/z0601-afro-organic-house-motifs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "470319ea4aa21b28f2c15e5434bba642e5390b0f018a56be934b93a817c49316"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/afro-organic-house-motifs-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "a5913d039a86ee474c5a8ef7bfc9a565ae698efeee0f4f3e50a8b286d9fe0bcf"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4002,
-      "sha256": "8c48b58f2b7d73bd76a7aa5b1e34e9f22c5a1f7ad97e406bcb4080b0ea014915"
+      "bytes": 4117,
+      "sha256": "406ca0045ea0e4a9fc06b0c1ddcf78dc2ba848d2ad671238260aa5e0f8777de5"
     },
     {
       "path": "social/instagram/caption.txt",
